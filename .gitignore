@@ -6,6 +6,7 @@ ehthumbs.db
 *.s#?
 *.b#?
 *.l#?
+*.lck
 
 # Folder config file
 Desktop.ini

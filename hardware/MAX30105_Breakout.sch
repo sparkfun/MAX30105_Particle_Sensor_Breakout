@@ -21049,7 +21049,7 @@ I2C Pull-ups from bus</text>
 <text x="203.2" y="83.82" size="1.778" layer="97">Clear Jumper to remove 
 pull-up from INT</text>
 <text x="58.42" y="116.84" size="1.778" layer="97">Logic is 1.8V
-5V if for LED Driver</text>
+5V for LED Driver</text>
 <text x="122.682" y="103.378" size="1.778" layer="97">All signals are 5V</text>
 <text x="48.514" y="137.668" size="1.27" layer="97">NC connected to GND
 for thermal performance</text>
