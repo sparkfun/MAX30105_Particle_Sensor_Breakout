@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.6.0">
+<eagle version="7.5.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -21032,7 +21032,7 @@ Standard 5-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <sheet>
 <plain>
 <text x="33.02" y="73.66" size="2.54" layer="97">7-Bit I2C: 0x57</text>
-<text x="238.76" y="7.62" size="1.778" layer="94">v01</text>
+<text x="238.76" y="7.62" size="1.778" layer="94">v10</text>
 <text x="170.688" y="11.43" size="2.54" layer="94">N. Seidle</text>
 <wire x1="99.06" y1="185.42" x2="99.06" y2="127" width="0.2032" layer="97" style="longdash"/>
 <wire x1="99.06" y1="127" x2="0" y2="127" width="0.2032" layer="97" style="longdash"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.6.0">
+<eagle version="7.5.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -160,7 +160,7 @@
 <wire x1="0" y1="0" x2="0" y2="22.86" width="0.2032" layer="20"/>
 <text x="5.588" y="1.27" size="1.27" layer="21" font="vector" ratio="15">MAX30105</text>
 <text x="4.445" y="16.51" size="1.27" layer="21" font="vector" ratio="15" align="center">!INT</text>
-<text x="11.811" y="20.955" size="1.27" layer="16" font="vector" ratio="20" rot="MR0">v01</text>
+<text x="11.811" y="20.955" size="1.27" layer="16" font="vector" ratio="20" rot="MR0">v10</text>
 <text x="4.064" y="11.43" size="1.27" layer="21" font="vector" ratio="15" align="center">5V</text>
 <text x="4.572" y="13.97" size="1.27" layer="21" font="vector" ratio="15" align="center">GND</text>
 <text x="4.572" y="6.35" size="1.27" layer="21" font="vector" ratio="15" align="center">SCL</text>
