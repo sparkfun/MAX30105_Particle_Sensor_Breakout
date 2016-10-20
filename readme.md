@@ -1,11 +1,15 @@
-MAX30105 Breakout
+MAX30105 Particle and Pulse Ox Sensor Breakout
 =======
 
-![MAX30105 Breakout Board](https://raw.githubusercontent.com/sparkfun/OpenScale/master/Hive-Electronics.jpg)
+![MAX30105 Breakout Board](https://raw.githubusercontent.com/sparkfun/MAX30105_Particle_Sensor_Breakout/master/MAX30105-Sensor-Layout.jpg)
 
-A breakout board for the MAX30105 Particle Sensor. This sensor uses three LEDs (Red, Green, IR) to shine different wavelengths of light at any particle in front of the photo detector. Based on the reflection the sensor outputs readings. It is up to the user to create the algorithms to detect different particles and/or SpO2 and/or do Pulse Detection.
+A breakout board for the MAX30105 Particle Sensor. This sensor uses three LEDs (Red, Green, IR) to shine different wavelengths of light at any particle in front of the photo detector. Based on the reflection the sensor outputs readings. 
 
-Board requires 5V to run LEDs. It has onboard voltage regulation and BSS138 MOSFETs to convert from larger logic voltages (5V) down to the needed 1.8V.
+![Pulse Graph](https://raw.githubusercontent.com/sparkfun/MAX30105_Particle_Sensor_Breakout/master/HeartBeat.jpg)
+
+Sensor is capable of detecting pulses but only limited algorithms are provided. It is up to the user to create the algorithms to detect different particles and/or SPO2 and/or do Pulse Detection.
+
+Board requires 5V to run the LEDs. It has onboard voltage regulation and BSS138 MOSFETs to convert from larger logic voltages (5V) down to the needed 1.8V.
 
 License Information
 -------------------
