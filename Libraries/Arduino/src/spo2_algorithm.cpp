@@ -57,7 +57,7 @@
 *******************************************************************************
 */
 
-#include "arduino.h"
+#include "Arduino.h"
 #include "spo2_algorithm.h"
 
 #if defined(ARDUINO_AVR_UNO)
